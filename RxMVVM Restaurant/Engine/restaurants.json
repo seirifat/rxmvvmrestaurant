@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Steak Ranjang",
+        "cuisine" : "daging"
+    },
+    {
+        "name" : "Waoreng Steak",
+        "cuisine" : "daging"
+    },
+    {
+        "name" : "Kantin AA",
+        "cuisine" : "nasi"
+    },
+    {
+        "name" : "Nasi Goreng Mafia",
+        "cuisine" : "nasi"
+    },
+    {
+        "name" : "Waroem",
+        "cuisine" : "nasi"
+    },
+    {
+        "name" : "Geprek Bebas",
+        "cuisine" : "ayam"
+    },
+    {
+        "name" : "Wix Mix",
+        "cuisine" : "ayam"
+    },
+    {
+        "name" : "Babeh",
+        "cuisine" : "nasi"
+    }
+]
